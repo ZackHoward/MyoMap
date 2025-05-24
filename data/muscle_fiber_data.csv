@@ -1,0 +1,9 @@
+Muscle,FiberType,Percentage
+Soleus,Slow,80
+Soleus,Fast,20
+EDL,Slow,10
+EDL,Fast,90
+Quadriceps,Slow,30
+Quadriceps,Fast,70
+Gracilis,Slow,60
+Gracilis,Fast,40
